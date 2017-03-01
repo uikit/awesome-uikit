@@ -8,7 +8,8 @@ Inspired by [https://github.com/ziadoz/awesome-php](awesome-php) and the likes.
  - [UIkitplay](https://uikitplay.com/) - Collection of interactive UIkit snippets
  - [Sublime Text plugin](https://github.com/uikit/uikit-sublime) - Autocompletion plugin for Sublime Text 3
  - [Atom plugin](https://atom.io/packages/uikit-atom) - Autocompletion plugin for Sublime Text 3
- - [PhpStorm](https://github.com/Bixie/intellij-uikit) - Autocompletion plugin for PhpStorm
+ - [PhpStorm plugin](https://github.com/Bixie/intellij-uikit) - Autocompletion plugin for PhpStorm
+ - [Visual Studio Code plugin](https://marketplace.visualstudio.com/items?itemName=Keno.uikit-3-snippets) - Snippets for Visual Studio Code
 
 ## Resources
  - [UIkit Resources](http://melaniebutlerdesign.com/uikit/) - Collected resources by Melanie Butler
