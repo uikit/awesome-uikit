@@ -2,7 +2,7 @@
 
 A curated list of awesome UIkit tools and resources.
 
-Inspired by [https://github.com/ziadoz/awesome-php](awesome-php) and the likes.
+Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and the likes.
 
 ## Tools
  - [UIkitplay](https://uikitplay.com/) - Collection of interactive UIkit snippets
