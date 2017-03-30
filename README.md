@@ -12,7 +12,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and the likes.
  - [Visual Studio Code plugin](https://marketplace.visualstudio.com/items?itemName=Keno.uikit-3-snippets) - Snippets for Visual Studio Code
 
 ## Resources
- - [UIkit codepen collection](http://codepen.io/collection/njbqPE/) - pens with a lot of examples
+ - [UIkit codepen collection](http://codepen.io/collection/njbqPE/) - Codepen collection with many UIkit examples
  - [UIkit Resources](http://melaniebutlerdesign.com/uikit/) - Collected resources by Melanie Butler
  - [PSD template](https://plus.google.com/118003653058454072787/posts/LjqLED97Bh3) - Elements and Grid template in a single Photoshop file (using UIkit 2)
 
