@@ -11,6 +11,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and the likes.
  - [PhpStorm plugin](https://github.com/Bixie/intellij-uikit) - Autocompletion plugin for PhpStorm
  - [Visual Studio Code plugin](https://marketplace.visualstudio.com/items?itemName=Keno.uikit-3-snippets) - Snippets for Visual Studio Code
 
+## Starter Kits
+ - [vuejs-uikit-starter](https://github.com/mstaack/vuejs-uikit-starter) Simple starter with sass & webpack
 ## Resources
  - [UIkit codepen collection](http://codepen.io/collection/njbqPE/) - Codepen collection with many UIkit examples
  - [UIkit Resources](http://melaniebutlerdesign.com/uikit/) - Collected resources by Melanie Butler
