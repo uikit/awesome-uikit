@@ -5,7 +5,6 @@ A curated list of awesome UIkit tools and resources.
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and the likes.
 
 ## Tools
- - [UIkitplay](https://uikitplay.com/) - Collection of interactive UIkit snippets
  - [Sublime Text plugin](https://github.com/uikit/uikit-sublime) - Autocompletion plugin for Sublime Text 3
  - [Atom plugin](https://atom.io/packages/uikit-atom) - Autocompletion plugin for Sublime Text 3
  - [PhpStorm plugin](https://github.com/Bixie/intellij-uikit) - Autocompletion plugin for PhpStorm
