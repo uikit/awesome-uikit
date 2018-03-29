@@ -9,7 +9,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and the likes.
 
 ## Tools
  - [Sublime Text plugin](https://github.com/uikit/uikit-sublime) - Autocompletion plugin for Sublime Text 3
- - [Atom plugin](https://atom.io/packages/uikit-atom) - Autocompletion plugin for Sublime Text 3
+ - [Atom plugin](https://atom.io/packages/uikit-atom) - Autocompletion plugin for Atom
  - [PhpStorm plugin](https://github.com/Bixie/intellij-uikit) - Autocompletion plugin for PhpStorm
  - [Visual Studio Code plugin](https://marketplace.visualstudio.com/items?itemName=Keno.uikit-3-snippets) - Snippets for Visual Studio Code
 
