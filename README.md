@@ -4,13 +4,17 @@ A curated list of awesome UIkit tools and resources.
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and the likes.
 
+## Tests
+ - [UIkit tests](https://getuikit.com/assets/uikit/tests/) - Overview of all UIkit's possibilities
+
 ## Tools
  - [Sublime Text plugin](https://github.com/uikit/uikit-sublime) - Autocompletion plugin for Sublime Text 3
- - [Atom plugin](https://atom.io/packages/uikit-atom) - Autocompletion plugin for Sublime Text 3
+ - [Atom plugin](https://atom.io/packages/uikit-atom) - Autocompletion plugin for Atom
  - [PhpStorm plugin](https://github.com/Bixie/intellij-uikit) - Autocompletion plugin for PhpStorm
  - [Visual Studio Code plugin](https://marketplace.visualstudio.com/items?itemName=Keno.uikit-3-snippets) - Snippets for Visual Studio Code
 
 ## Starter Kits
+ - [Kick-Off](https://github.com/zzseba78/Kick-Off) Quick start for your UIkit project
  - [vuejs-uikit-starter](https://github.com/mstaack/vuejs-uikit-starter) Simple starter with sass & webpack
 ## Resources
  - [UIkit 3 codepen collection](https://codepen.io/collection/AYNaMv) - Curated collection of UIkit3 examples 
