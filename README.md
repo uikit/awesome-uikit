@@ -31,6 +31,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and the likes.
 ## CMS
  - [Pagekit](https://pagekit.com) - Open source PHP CMS. Backend uses UIkit. Most of the available frontend themes also use UIkit
  - [ProcessWire](https://processwire.com) - Open source PHP CMS. Backend uses UIkit.
+ 
+## Templates
+- [UIkit E-commerce Template](https://github.com/chekromul/uikit-ecommerce-template) - Responsive e-commerce template containing catalog, filters, product page, shopping cart and other elements of the online store
 
 ## Commercial themes
 - [YOOtheme Pro](https://yootheme.com/pro) - Wordpress and Joomla themes built with UIkit
