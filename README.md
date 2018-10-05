@@ -2,9 +2,6 @@
 
 A curated list of awesome UIkit tools and resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and the likes.
 
-## Tests
- - [UIkit tests](https://getuikit.com/assets/uikit/tests/) - Overview of all UIkit's possibilities
-
 ## Tools
 
 - [Sublime Text plugin](https://github.com/uikit/uikit-sublime) - Autocompletion plugin for Sublime Text 3
@@ -24,6 +21,7 @@ A curated list of awesome UIkit tools and resources. Inspired by [awesome-php](h
 
 ## Markup Examples
 
+- [Official UIkit tests](https://getuikit.com/assets/uikit/tests/) - Overview of all UIkit's possibilities
 - [UIkit 3 codepen collection](https://codepen.io/collection/AYNaMv) - Curated collection of UIkit examples 
 
 ## Image Resources
