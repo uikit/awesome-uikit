@@ -36,4 +36,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and the likes.
 - [UIkit E-commerce Template](https://github.com/chekromul/uikit-ecommerce-template) - Responsive e-commerce template containing catalog, filters, product page, shopping cart and other elements of the online store
 
 ## Commercial themes
-- [YOOtheme Pro](https://yootheme.com/pro) - Wordpress and Joomla themes built with UIkit
+- [YOOtheme Pro](https://yootheme.com/pro) - A powerful theme and page builder for WordPress and Joomla built with UIkit 3.
+- [Warp 7 Themes](https://yootheme.com/themes#warp-themes) - Over 39 stand-alone WordPress and Joomla themes built with UIkit 2.
+- [Beans](https://www.getbeans.io) - Professional WordPress themes built with UIkit 2.
