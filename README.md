@@ -40,5 +40,5 @@ A curated list of awesome UIkit tools and resources. Inspired by [awesome-php](h
 - [Codepen Collection](http://codepen.io/collection/njbqPE) - Curated collection of UIkit 2 examples
 - [PSD Resource](https://plus.google.com/118003653058454072787/posts/LjqLED97Bh3) - UIkit 2 Elements and Grid template in a single Photoshop file
 - [Warp 7 Themes](https://yootheme.com/themes#warp-themes) - Over 39 stand-alone WordPress and Joomla themes built with UIkit 2.
-- [Free Pagekit Themes](https://pagekit.com/marketplace/themes?page=0) - Over 9 free themes based on UIkit for the Pagekit CMS
+- [Free Pagekit Themes](https://pagekit.com/marketplace/themes?page=0) - Over 9 free themes based on UIkit 2 for the Pagekit CMS
 - [Beans](https://www.getbeans.io) - Professional WordPress themes built with UIkit 2.
