@@ -30,16 +30,14 @@ A curated list of awesome UIkit tools and resources. Inspired by [awesome-php](h
 ## Framework Integration
  - [Vuikit](https://vuikit.js.org) - Vue.js components built with UIkit
 
-## Tutorials and screencasts
-- [UIkit 2 screencasts](https://www.youtube.com/playlist?list=PL2SfpsC7cy0gv9O7nNKyQZBrFjhi3LH-V) - Screencasts about UIkit 2
-
 ## CMS built with UIkit
  - [Pagekit](https://pagekit.com) - Open source PHP CMS. Backend uses UIkit. Most of the available frontend themes also use UIkit
  - [ProcessWire](https://processwire.com) - Open source PHP CMS. Backend uses UIkit.
  
 ## UIkit 2 only
 
-- [UIkit 2 codepen collection](http://codepen.io/collection/njbqPE) - Curated collection of UIkit examples (UIkit 2 only)
-- [PSD Resource](https://plus.google.com/118003653058454072787/posts/LjqLED97Bh3) - Elements and Grid template in a single Photoshop file (UIkit 2 only)
+- [Screencasts](https://www.youtube.com/playlist?list=PL2SfpsC7cy0gv9O7nNKyQZBrFjhi3LH-V) - Tutorials for UIkit 2
+- [Codepen Collection](http://codepen.io/collection/njbqPE) - Curated collection of UIkit 2 examples
+- [PSD Resource](https://plus.google.com/118003653058454072787/posts/LjqLED97Bh3) - UIkit 2 Elements and Grid template in a single Photoshop file
 - [Warp 7 Themes](https://yootheme.com/themes#warp-themes) - Over 39 stand-alone WordPress and Joomla themes built with UIkit 2.
 - [Beans](https://www.getbeans.io) - Professional WordPress themes built with UIkit 2.
