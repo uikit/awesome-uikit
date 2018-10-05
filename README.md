@@ -37,4 +37,3 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and the likes.
 
 ## Commercial themes
 - [YOOtheme Pro](https://yootheme.com/pro) - Wordpress and Joomla themes built with UIkit
-- [Themeforest](https://themeforest.net/tags/uikit) - Various themes tagged "uikit" on themeforest
