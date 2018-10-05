@@ -1,8 +1,6 @@
 # Awesome UIkit
 
-A curated list of awesome UIkit tools and resources.
-
-Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and the likes.
+A curated list of awesome UIkit tools and resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and the likes.
 
 ## Tests
  - [UIkit tests](https://getuikit.com/assets/uikit/tests/) - Overview of all UIkit's possibilities
