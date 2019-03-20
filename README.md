@@ -12,6 +12,7 @@ A curated list of awesome UIkit tools and resources. Inspired by [awesome-php](h
 ## Starter Kits
 
 - [UIkit E-commerce Template](https://github.com/chekromul/uikit-ecommerce-template) - E-Commerce Starter Template (Catalog, Filters, Product Page, Shopping Cart and more)
+- [UIkit E-commerce Template (Sass version)](https://github.com/vkovic/uikit-computer-store-template) - E-Commerce Starter Template (Catalog, Filters, Product Page, Shopping Cart and more)
 - [Kick-Off](https://zzseba78.github.io/Kick-Off/) - Quick Starter Template
 - [vuejs-uikit-starter](https://github.com/mstaack/vuejs-uikit-starter) - Quick Starter for Uikit & Vue.js
 
