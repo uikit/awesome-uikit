@@ -31,6 +31,7 @@ A curated list of awesome UIkit tools and resources. Inspired by [awesome-php](h
 ## Framework Integration
  - [Vuikit](https://vuikit.js.org) - Vue.js components built with UIkit
  - [Laravel UI Preset](https://github.com/Torrix/laravel-ui-uikit) - Laravel 6 UI preset for UIkit
+ - [ember-uikit](https://adfinis-sygroup.github.io/ember-uikit/) - Ember.js components built with UIkit 
 
 ## CMS built with UIkit
  - [Pagekit](https://pagekit.com) - Open source PHP CMS. Backend uses UIkit. Most of the available frontend themes also use UIkit
