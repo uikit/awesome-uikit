@@ -35,6 +35,8 @@ A curated list of awesome UIkit tools and resources. Inspired by [awesome-php](h
 ## CMS built with UIkit
  - [Pagekit](https://pagekit.com) - Open source PHP CMS. Backend uses UIkit. Most of the available frontend themes also use UIkit
  - [ProcessWire](https://processwire.com) - Open source PHP CMS. Backend uses UIkit.
+ - [Hummingbird CMS](https://github.com/mvanvu/hummingbird-cms) - Open source PHP CMS. Based on Phalcon v4 and UIkit v3
+ - [EasyShop component!](https://joomtech.net) - Powerfull Joomla! shopping cart component. UI based on UIkit 3
  
 ## UIkit 2 only
 
