@@ -38,6 +38,7 @@ A curated list of awesome UIkit tools and resources. Inspired by [awesome-php](h
  
 ## UIkit 2 only
 
+- [Free Figma Bootstrap 5 UI Kit 🎉](https://themeselection.com/products/free-figma-bootstrap-ui-kit/) - Design faster with a collection of prebuilt Figma components with powerful auto layout and resizing constraints. 🚀
 - [Screencasts](https://www.youtube.com/playlist?list=PL2SfpsC7cy0gv9O7nNKyQZBrFjhi3LH-V) - Tutorials for UIkit 2
 - [Codepen Collection](http://codepen.io/collection/njbqPE) - Curated collection of UIkit 2 examples
 - [PSD Resource](https://plus.google.com/118003653058454072787/posts/LjqLED97Bh3) - UIkit 2 Elements and Grid template in a single Photoshop file
